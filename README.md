@@ -5,6 +5,8 @@
 
 -  **[Yeoman](https://github.com/yeoman/yeoman):** Yeoman is a generator for front end applications. If that was unknown by the well documented pages, the [artwork](https://github.com/yeoman/media) provides clear and engaging context. 
 
+-  **[Choojs](https://github.com/choojs/choo):** Choojs is a small framework for building front-end applications. The readme is fun in tone and descriptive. The readme also accepts information that can be placed elsewhere and does it.  
+
 ---
 
 <p align="center">This list was started by <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share readmes that might provide some context for creating captivating and inspiring readmes. An insights or suggestions are very much appreciated.</p>
