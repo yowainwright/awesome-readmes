@@ -9,6 +9,8 @@
 
 -  **[jquery.pep.js](https://github.com/briangonzalez/jquery.pep.js):** JQuery Pep is a [jQuery plugin](https://plugins.jquery.com/) that makes items draggable on a webpage or app. The readme provides an eloquent table of listing out API properties that can be used to achieve the desired drag result.
 
+-  **[HEAD](https://github.com/joshbuchea/HEAD):** HEAD provides a list of everything that *could* go in the head of your document. The entire repo is a single file: `README.md`. The readme has a ton of code snippets that can be directly copied-and-pasted into your project, it has a table of contents, has been translated into 7 languages, and even has spiffy "Back to Top" links at the end of each section (super useful because the readme is quite long).
+
 ---
 
 <p align="center">This list was started by <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share readmes that might provide some context for creating captivating and inspiring readmes. An insights or suggestions are very much appreciated.</p>
