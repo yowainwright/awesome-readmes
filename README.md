@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center">This list was started by <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share readmes that might provide some context for creating captivating and inspiring readmes. An insights or suggestions are very much appreciated.</p>
+<p align="center">This list is the brainchild of <a href="https://github.com/yowainwright">Jeff Wainwright</a>. The purpose is to share readmes that might inspire the creation of even more captivating and inspiring readmes. Any insights or suggestions are very much appreciated.</p>
 
 <p align="center">💕</p>
 
