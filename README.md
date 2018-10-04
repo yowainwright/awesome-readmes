@@ -15,6 +15,8 @@
 
 - **[stickybits](https://github.com/dollarshaveclub/stickybits):** Stickybits is a lightweight alternative to `position: sticky` polyfills. The readme fully outlines the API of the library, provides examples, outlines contributing guidelines, and even says thanks at the end.
 
+- **[Terminalizer](https://github.com/faressoft/terminalizer)** Terminalizer generates animated gif images by recording all your actions on a CLI interface. The tool itself is extremely useful for demonstrating installation instructions, CLI tool usage, etc. Terminalizer not only shows an excellent example of how it renders an image, but includes no-nonsense installation instructions, a step by step "getting started" section, and customization options in a skimmable and gif + example oriented fashion, in addition to how to handle common errors and issues.
+
 - **[Webpack](https://github.com/webpack/webpack):** Webpack is a module bundler for JavaScript. The readme describes what Webpack is and then offers a high level of how to install it what it can do. Webpack then goes into the tools it works with and the people that build the project which creates a great sense of community. It has documentation beyond the readme that goes above and beyond to be thoughtful for its community.
 
 - **[Yeoman](https://github.com/yeoman/yeoman):** Yeoman is a generator for front end applications. If that was unknown by the well documented pages, the [artwork](https://github.com/yeoman/media) provides clear and engaging context.
