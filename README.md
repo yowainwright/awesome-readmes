@@ -17,6 +17,8 @@
 
 - **[Yeoman](https://github.com/yeoman/yeoman):** Yeoman is a generator for front end applications. If that was unknown by the well documented pages, the [artwork](https://github.com/yeoman/media) provides clear and engaging context.
 
+- **[Create-React-App](https://github.com/facebook/create-react-app):** Create-React-App (or CRA) is the de-facto boilerplate for getting a zero-configuration ReactJS environment together. The README not only shows animated GIF images of how to get started, but it also provides deep and rich step-by-step documentation of adding other popular tools to the front end ecosystem like Sass, code-splitting, routers, static typechecking, and many more.
+
 ---
 
 <p align="center">This list is the brainchild of <a href="https://github.com/yowainwright">Jeff Wainwright</a>. The purpose is to share readmes that might inspire the creation of even more captivating and inspiring readmes. Any insights or suggestions are much appreciated.</p>
