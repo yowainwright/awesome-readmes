@@ -5,6 +5,8 @@
 
 - **[Choojs](https://github.com/choojs/choo):** Choojs is a small framework for building front-end applications. The readme is fun in tone and descriptive. The readme also accepts information that can be placed elsewhere and does it.
 
+- **[Create-React-App](https://github.com/facebook/create-react-app):** Create-React-App (or CRA) is the de-facto boilerplate for getting a zero-configuration ReactJS environment together. The README not only shows animated GIF images of how to get started, but it also provides deep and rich step-by-step documentation of adding other popular tools to the front end ecosystem like Sass, code-splitting, routers, static typechecking, and many more.
+
 - **[Developer CI Benefits](https://github.com/yowainwright/developer-ci-benefits):** Developer CI Benefits is a repository dedicated to making clear how accessible CI benefits are to developers. The readme describes the intent of the repository as well as links to documents providing more detail about developer CI benefits in digestable documents.
 
 - **[HEAD](https://github.com/joshbuchea/HEAD):** HEAD provides a list of everything that *could* go in the head of your document. The entire repo is a single file: `README.md`. The readme has a ton of code snippets that can be directly copied-and-pasted into your project, it has a table of contents, has been translated into 7 languages, and even has spiffy "Back to Top" links at the end of each section (super useful because the readme is long).
