@@ -13,6 +13,8 @@
 
 - **[jquery.pep.js](https://github.com/briangonzalez/jquery.pep.js):** JQuery Pep is a [jQuery plugin](https://plugins.jquery.com/) that makes items draggable on a webpage or app. The readme provides an eloquent table of listing out API properties that can be used to achieve the desired drag result.
 
+- **[Otto](https://github.com/KartikChugh/Otto):** Otto is an intelligent chat application that makes machine learning an intuitive, natural language experience. The readme contains a high-level overview of the project, tons of fun, animated GIF demos of its features, Quick Start examples and a detailed, step-by-step breakdown.
+
 - **[stickybits](https://github.com/dollarshaveclub/stickybits):** Stickybits is a lightweight alternative to `position: sticky` polyfills. The readme fully outlines the API of the library, provides examples, outlines contributing guidelines, and even says thanks at the end.
 
 - **[Terminalizer](https://github.com/faressoft/terminalizer)** Terminalizer generates animated gif images by recording all your actions on a CLI interface. The tool itself is extremely useful for demonstrating installation instructions, CLI tool usage, etc. Terminalizer not only shows an excellent example of how it renders an image, but includes no-nonsense installation instructions, a step by step "getting started" section, and customization options in a skimmable and gif + example oriented fashion, in addition to how to handle common errors and issues.
