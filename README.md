@@ -25,18 +25,6 @@
 
 - **[Yeoman](https://github.com/yeoman/yeoman):** Yeoman is a generator for front end applications. If that was unknown by the well documented pages, the [artwork](https://github.com/yeoman/media) provides clear and engaging context.
 
-
-# Contributing
-
-See a repo with an excellent README that's not on this list? Feel free to open up a pull request and make a contribution!
-
-We ask that your contribution:
-
-1. Has a working link to the repository with said excellent README to share
-2. Follows the same format as the repositories already listed above (Name with link in bold, followed by a short description of what it is)
-3. All README entries are listed in alphabetical order.
-
-We look forward to your pull request that's helping us creating a great list of curated READMEs for the open source community!
 ---
 
 <p align="center">This list is the brainchild of <a href="https://github.com/yowainwright">Jeff Wainwright</a>. The purpose is to share readmes that might inspire the creation of even more captivating and inspiring readmes. Any insights or suggestions are much appreciated.</p>
