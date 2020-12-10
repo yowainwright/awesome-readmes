@@ -9,6 +9,8 @@
 
 - **[Developer CI Benefits](https://github.com/yowainwright/developer-ci-benefits):** Developer CI Benefits is a repository dedicated to making clear how accessible CI benefits are to developers. The readme describes the intent of the repository as well as links to documents providing more detail about developer CI benefits in digestable documents.
 
+- **[easybase-react](https://github.com/easybase/easybase-react):** Developer-friendly serverless framework for React featuring stateful functions and attributes. The readme is concise and informative without being redudant. The readme features a high-level description and explicitly defines the purpose of the project. It features a ToC and animated visuals for new users. Expanable code snippets allow readers to learn more without visually cluttering the readme.
+
 - **[HEAD](https://github.com/joshbuchea/HEAD):** HEAD provides a list of everything that *could* go in the head of your document. The entire repo is a single file: `README.md`. The readme has a ton of code snippets that can be directly copied-and-pasted into your project, it has a table of contents, has been translated into 7 languages, and even has spiffy "Back to Top" links at the end of each section (super useful because the readme is long).
 
 - **[jquery.pep.js](https://github.com/briangonzalez/jquery.pep.js):** JQuery Pep is a [jQuery plugin](https://plugins.jquery.com/) that makes items draggable on a webpage or app. The readme provides an eloquent table of listing out API properties that can be used to achieve the desired drag result.
